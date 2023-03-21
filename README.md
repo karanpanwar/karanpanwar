@@ -13,7 +13,6 @@ I'm passionate about building high-quality web applications that deliver value t
 - Golang
 - SQL
 
-
 **Frontend** 🖼️ 
 - React
 - React Redux
@@ -44,9 +43,6 @@ I'm passionate about building high-quality web applications that deliver value t
 **MISC** ⚓️
 - Git / Github
 - Docker
-
-
-
 
 ## 🤝 Let's Connect
 I'm always open to new opportunities and collaborations, so feel free to reach out to me on
