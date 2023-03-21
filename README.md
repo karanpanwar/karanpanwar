@@ -14,7 +14,7 @@ I'm passionate about building high-quality web applications that deliver value t
 - SQL
 
 
-**Frontend** 💻 
+**Frontend** 🖼️ 
 - React
 - React Redux
 - NextJS
