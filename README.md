@@ -7,42 +7,13 @@ I'm passionate about building high-quality web applications that deliver value t
 
 ## 💻 Technical Skills
 
-**Programming Languages** 🧑‍💻️
-- JavaScript
-- TypeScript
-- Golang
-- SQL
-
-**Frontend** 🖼️ 
-- React
-- React Redux
-- NextJS
-- HTML/CSS
-- SASS/SCSS
-
-**Backend** ⚙️
-- Node
-- NestJS
-- Express
-
-**Databases** 💾️
-- MongoDB
-- MySQL
-- PostgresSQL
-- Redis
-
-**UI/CSS Framework** 🎨
-- Material UI
-- Tailwind CSS
-- Bootstrap
-
-**Data Visualization** 📊️
-- ChartJS
-- D3JS
-
-**MISC** ⚓️
-- Git / Github
-- Docker
+| **Programming Languages** | **Frontend**   | **Backend**   | **Databases**           | **UI/CSS Framework** | **Data Visualization** | **MISC**           |
+|--------------------------|----------------|---------------|-------------------------|----------------------|-----------------------|--------------------|
+| JavaScript               | React          | Node          | MongoDB                 | Material UI          | ChartJS               | Git / Github       |
+| TypeScript               | React Redux    | NestJS        | MySQL                   | Tailwind CSS         | D3JS                  | Docker             |
+| Golang                   | NextJS         | Express       | PostgresSQL             | Bootstrap            |                       |                    |
+| SQL                      | HTML/CSS       |               | Redis                   |                      |                       |                    |
+|                          | SASS/SCSS      |               |                         |                      |                       |                    |
 
 ## 🤝 Let's Connect
 I'm always open to new opportunities and collaborations, so feel free to reach out to me on
