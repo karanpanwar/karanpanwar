@@ -11,8 +11,8 @@ I'm passionate about building high-quality web applications that deliver value t
 |--------------------------|----------------|---------------|-------------------------|----------------------|-----------------------|--------------------|
 | JavaScript               | React          | Node          | MongoDB                 | Material UI          | ChartJS               | Git / Github       |
 | TypeScript               | React Redux    | NestJS        | MySQL                   | Tailwind CSS         | D3JS                  | Docker             |
-| Golang                   | NextJS         | Express       | PostgresSQL             | Bootstrap            |                       |                    |
-| SQL                      | HTML/CSS       |               | Redis                   |                      |                       |                    |
+| Golang                   | NextJS         | Express       | PostgresSQL             | Bootstrap            | Google Chart          |                    |
+| SQL                      | HTML/CSS       | tRPC Router   | Redis                   | Shadcn/UI            |                       |                    |
 |                          | SASS/SCSS      |               |                         |                      |                       |                    |
 
 ## 🤝 Let's Connect
